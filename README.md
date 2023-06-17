@@ -4,5 +4,5 @@
 - Thank you for visiting my profile! ✨
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/17/28/5f/17285fc448d970cdd53b1b3ba11d7e66.gif" alt="GIF" width="300" height="200">
+  <img src="https://i.pinimg.com/originals/17/28/5f/17285fc448d970cdd53b1b3ba11d7e66.gif" alt="GIF" width="100">
 </p>
