@@ -4,5 +4,5 @@
 - Thank you for visiting my profile! ✨
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dimcnbuqs/image/upload/v1701068209/presentacion_1_vnbile.gif" alt="GIF" width="200">
+  <img src="https://res.cloudinary.com/dimcnbuqs/image/upload/v1701068644/presentacion-_online-video-cutter.com__osllcd.gif" alt="GIF" width="1000">
 </p>
